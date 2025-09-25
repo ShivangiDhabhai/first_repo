@@ -1,4 +1,4 @@
 # first_repo
 This is my first repo.
 <br>
-Author- Shivangi Dhabhai
+Author- Shivangi Dha
